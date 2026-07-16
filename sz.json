@@ -1,0 +1,15 @@
+{
+  "pemKey": {
+    "keyPem": "MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQg81Hda1m+40d0tQaKOlviNNjKagmyyjKD1kxGiyvwacegCgYIKoZIzj0DAQehRANCAATSU447I6kU21FTPbODd8S4HxtJEwLmjP/yv/BhcY/rDD5LJD+Ywkz9Rl14b70IQAu7Twu/klhK36XHnkjgETVd",
+    "teamId": "CKSLCMK68W",
+    "keyId": "P973G6X6TP"
+  },
+  "cloudKey": [
+    "AIzaSyBFUUirwMIj7sZ0n8Ds_NoxZBL_XXZ_aaA",
+    "AIzaSyBkb2sj2YB8UXOL84rznlueKvTe3NegqrY"
+  ],
+  "spotifyKey": {
+    "clientId": "73aaf766927945ca8a484a86c9a38268",
+    "clientSecret": "f0dcd018121849128a703784213e6bc8"
+  }
+}
